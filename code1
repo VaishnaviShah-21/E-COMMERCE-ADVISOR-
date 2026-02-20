@@ -1,0 +1,73 @@
+Products.json:
+[
+  {
+    "product_id": "SW001",
+    "name": "FitPro X1",
+    "category": "Smartwatch",
+    "price": 3999,
+    "price_history": [4599, 3999],
+    "features_tags": ["fitness", "heart-rate", "bluetooth"],
+    "review_summary": "Affordable fitness smartwatch",
+    "reviews": ["Good fitness tracking", "Good fitness tracking", "Battery life is great"],
+    "platform_prices": {"Amazon": 3999, "Flipkart": 3799}
+  },
+  {
+    "product_id": "SW002",
+    "name": " thMHealaxPro",
+    "category": "Smartwatch",
+    "price": 6999,
+    "price_history": [7499, 6999],
+    "features_tags": ["amoled", "fitness", "spo2"],
+    "review_summary": "Premium health tracking features",
+    "reviews": ["Excellent display", "Excellent display", "Good battery backup"],
+    "platform_prices": {"Amazon": 6999, "Flipkart": 6799}
+  },
+
+
+  {
+    "product_id": "HP001",
+    "name": "BassCore ANC",
+    "category": "Headphones",
+    "price": 5499,
+    "price_history": [5999, 5499],
+    "features_tags": ["anc", "wireless"],
+    "review_summary": "Strong ANC performance",
+    "reviews": ["Amazing sound quality", "Amazing sound quality", "Very comfortable"],
+    "platform_prices": {"Amazon": 5499, "Flipkart": 5299}
+  },
+  {
+    "product_id": "HP002",
+    "name": "SoundMax 500",
+    "category": "Headphones",
+    "price": 3999,
+    "price_history": [4499, 3999],
+    "features_tags": ["wireless", "bass"],
+    "review_summary": "Deep bass headphones",
+    "reviews": ["Bass is powerful", "Bass is powerful", "Battery backup is good"],
+    "platform_prices": {"Amazon": 3999, "Flipkart": 3799}
+  },
+
+
+  {
+    "product_id": "AP001",
+    "name": "AirTune Lite",
+    "category": "AirPods",
+    "price": 2999,
+    "price_history": [3499, 2999],
+    "features_tags": ["wireless", "budget"],
+    "review_summary": "Affordable earbuds",
+    "reviews": ["Good sound", "Good sound", "Value for money"],
+    "platform_prices": {"Amazon": 2999, "Flipkart": 2799}
+  },
+  {
+    "product_id": "AP002",
+    "name": "AirTune Pro",
+    "category": "AirPods",
+    "price": 6999,
+    "price_history": [7499, 6999],
+    "features_tags": ["anc", "premium"],
+    "review_summary": "Premium ANC earbuds",
+    "reviews": ["Amazing ANC", "Amazing ANC", "Premium feel"],
+    "platform_prices": {"Amazon": 6999, "Flipkart": 6799}
+  }
+]
