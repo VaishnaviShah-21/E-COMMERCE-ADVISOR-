@@ -1,7 +1,3 @@
-
-abc.py
-
-
 import json
 from collections import Counter
 
@@ -85,14 +81,3 @@ if st.button("Search"):
             st.write("Price Status:", check_price_drop(product))
             st.write("Platform Prices:", product["platform_prices"])
             st.markdown("---")
-
-
-
-
-
-
-
-
-
-
-
